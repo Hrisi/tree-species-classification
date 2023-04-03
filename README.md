@@ -12,9 +12,9 @@ The PointMixer network is trained with the following settings and hyperparameter
 - 2048 input points, selected from the original point cloud using the Furthest Point Sampling
 - 42 batch size
 - Initial learning rate: 0.1
-- Cosine-annealing decay
-  -- Minumum learning rate: 0.005
-  -- Maximum number of iterations: 300
+- Cosine-annealing decay<\br>
+  -- Minumum learning rate: 0.005<\br>
+  -- Maximum number of iterations: 300<\br>
 - Training epochs: 300
 
 The best model was chosen based on the performance on the validation set.
