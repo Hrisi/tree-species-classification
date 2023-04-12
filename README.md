@@ -17,7 +17,7 @@ The PointMixer network is trained with the following inputs and hyperparameters:
   -- Maximum number of iterations: 300<br/>
 - Training epochs: 300
 
-The best model was chosen based on the performance on the validation set. The best model was obtained during epoch 269.
+The best model was chosen based on the performance on the validation set. The best model was obtained during epoch 269 and can be downloaded [here](https://drive.google.com/drive/folders/1IerzNdCGu_je6xfxpC_H4IGv96C_zs73?usp=sharing).
 
 Metrics computed on the validation set:
 | Overall accuracy | Precision | Recall | F1-score |
